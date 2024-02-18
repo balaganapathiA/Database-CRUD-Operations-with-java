@@ -89,7 +89,7 @@ public class db1 {
 		case 5:
 			System.exit(0);
 		default:
-			System.out.print("enter crct value\n");
+			System.out.print("INVALID OPTION\n");
 			break;
 		}
 
